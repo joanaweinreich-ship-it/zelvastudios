@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.zelvastudios.com/sitemap.xml
-
-# ZÉLVA Studios – Kosmetikstudio Ratingen
-# Homberger Str. 37, 40882 Ratingen
